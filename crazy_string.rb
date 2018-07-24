@@ -4,4 +4,4 @@ def crazy_strings(a,b)
 
 end
 
-crazy_strings("Hello".reverse.upcase)
+crazy_strings("Hello".reverse.upcase,"Friends".)
